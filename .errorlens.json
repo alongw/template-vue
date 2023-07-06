@@ -1,0 +1,7 @@
+{
+    "errorLens.ignorePatterns": [
+      "**/node_modules/**",
+      "**/dist/**",
+      "**/.github/**"
+    ]
+  }
